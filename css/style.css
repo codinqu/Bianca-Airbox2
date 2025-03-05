@@ -1,0 +1,213 @@
+.topBar {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(177, 168, 168);
+    background-color: #262336;
+    padding-bottom: 13px;
+    position: relative;
+}
+.topbarNav img {
+    padding-left: 34px;
+    height: 71px;
+    margin-top: 17px;
+}
+
+.topbarNav h2 {
+    padding-left: 129px;
+    margin-top: -62px;
+    font-size: 24px;
+}
+
+.topbarNav p {
+    padding-left: 130px;
+    margin-top: -19px;
+    font-size: 16px;
+}
+
+.navBar ul {
+    position: absolute;
+    list-style: none;
+    font-size: 14px;
+    display: flex;
+    letter-spacing: 3px;
+    padding: 23px;
+    margin-top: 11px;
+    right: 84px;
+    top: 28px;
+}
+
+.custSupport {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #262336;
+    text-align: center;
+    margin-top: -1px;
+}
+
+.customerS h3 {
+    font-size: 37px;
+    color: rgb(142, 142, 184);
+    margin-top: 8px;
+    color: #bebdc5;
+    background-image: -webkit-linear-gradient(90deg, #bebdc5 50%, #828091 50%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent;   
+}
+
+.customerS h1 {
+    font-size: 45px;
+    color: rgb(196, 195, 195);
+    color: #bab7bb;
+    background-image: -webkit-linear-gradient(90deg, #b9b9b9 50%, #d8d5d5 50%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent;
+}
+
+.customerS p {
+    font-size: 15px;
+    color: rgb(192, 192, 192);
+}
+
+.customerS button {
+    background-color: rgb(171, 129, 187);
+    border-radius: 6px;
+    margin-bottom: 42px;
+    color: rgb(206, 204, 204);
+    font-size: 12px;
+    width: 77px;
+}
+
+.mainContainer {
+    background-color: #f29b66;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.mainContainer img {
+    max-width: 100%;
+    height: auto;
+    height: 89px;
+    margin-top: 17px;
+}
+
+.mainContainer h4 {
+    margin-top: 14px;
+    font-size: 26px;
+    color: rgb(231, 230, 230);
+    color: #bab7bb;
+    background-image: -webkit-linear-gradient(90deg, #b9b9b9 50%, #d8d5d5 50%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent;
+}
+
+.mainContainer h5 {
+    font-size: 23px;
+    color: rgb(82, 79, 79);
+    color: #bab7bb;
+    background-image: -webkit-linear-gradient(90deg, #686868 50%, #838181 50%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent;
+}
+
+.mainContainer p {
+    font-size: 15px;
+    color: rgb(77, 76, 76);
+}
+
+.mainTwo {
+    background-color: rgb(168, 167, 167);
+    padding: 19px;
+    text-align: center;
+}
+.mainTwo img {
+    max-width: 100%;
+    height: 228px;
+    margin-bottom: 14px;
+    margin-top: 15px;
+}
+
+.mainTwo button {
+    border-radius: 8px;
+    width: 111px;
+    font-size: 16px;
+    background-color: rgb(245, 112, 24);
+    color: rgb(211, 210, 210);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mainThree{
+    background-color: #262336 ;
+    padding: 26px;
+    text-align: center;
+}
+
+.mainThree h5 {
+    font-size: 24px;
+    font-family: serif;
+    color: rgb(148, 148, 148);
+    margin-top: 12px;
+    color: #bab7bb;
+    background-image: -webkit-linear-gradient(90deg, #797979 50%, #b7b5bb 50%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent;
+}
+
+.mainThree ul {
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mainThree li::marker {
+    color: rgb(255, 123, 0);
+}
+
+.mainThree li {
+    text-align: left;
+    color: rgb(202, 198, 198);
+}
+
+.mainThree p {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(187, 183, 183);
+}
+
+.mainThree button {
+    border-radius: 7px;
+    width: 110px;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(185, 185, 185);
+    background-color: rgb(255, 115, 0);
+}
+
+.mainFour {
+    background-color: #322f40;
+    margin-top: -5px;
+}
+
+.mainFive {
+    margin-top: -1px;
+}
+
+.airboxEnd {
+    text-align: center;
+    background-color: #262336;
+    color: #797979;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.airboxEnd img {
+    height: 47px;
+    margin-top: 7px;
+}
+
+.airboxEnd h3 {
+    font-size: 16px;
+}
+
+.airboxEnd h5 {
+font-size: 13px;
+}
+
+.airboxEnd p {
+    font-size: 10px;
+}
+
+.endContainer {
+    text-align: center;
+    background-color: #262336;
+    margin-top: -15px;
+    padding-bottom: 17px;
+}
+
+.logoS img {
+    height: 22px;
+}
