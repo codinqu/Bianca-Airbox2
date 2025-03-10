@@ -76,7 +76,7 @@
     background-color: #f29b66;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    padding-bottom: 66px;
+    padding-bottom: 16px;
 }
 
 .mainContainer img {
@@ -104,6 +104,11 @@
 .mainContainer p {
     font-size: 15px;
     color: rgb(77, 76, 76);
+}
+
+.cm {
+    display: flex;
+    justify-content: space-around;
 }
 
 .mainTwo {
@@ -141,9 +146,11 @@
 }
 
 .mainThree{
+    display: flex;
     background-color: #262336 ;
     padding: 26px;
     text-align: center;
+    justify-content: center;
 }
 
 .mainThree h5 {
@@ -183,9 +190,27 @@
     background-color: rgb(255, 115, 0);
 }
 
+.hostserv {
+    display: flex;
+}
+
+.emailMore {
+    display: flex;
+}
+
 .mainFour {
+    display: flex;
+    justify-content: center;
     background-color: #322f40;
     margin-top: -5px;
+}
+
+.wordmagSpon {
+    display: flex;
+}
+
+.openjoomSpon {
+    display: flex;
 }
 
 .mainFive {
